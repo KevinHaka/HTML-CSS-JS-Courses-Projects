@@ -26,6 +26,7 @@ function checkKey(e){
 function checkGuess(){
     let newValue = newGuess.value.trim();
     newGuess.value = "";
+    newGuess.focus();
 
     if (newValue.length != 0) {
         let result = processGuess(newValue);
@@ -79,7 +80,7 @@ function restart(){
     newGuess.disabled = false;
     newGuess.focus();
 
-    message.style.background = "initial";
+    message.removeAttribute("data-status");
     checkButton.style.display = "inline-block";
     restartButton.style.display = "none";
 }
