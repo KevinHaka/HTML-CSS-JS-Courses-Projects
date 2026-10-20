@@ -1,4 +1,4 @@
-δconst newGuess = document.querySelector("#new-guess");
+const newGuess = document.querySelector("#new-guess");
 const message = document.querySelector("#message");
 const lowHigh = document.querySelector("#low-high");
 const checkButton = document.querySelector("#check");
