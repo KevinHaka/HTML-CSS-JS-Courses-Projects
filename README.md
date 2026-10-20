@@ -1,4 +1,4 @@
-# HTML, CSS & JavaScript Course Projects
+# HTML, CSS & JavaScript Courses Projects
 
 A collection of web development projects created during programming courses, showcasing front-end development, interactive web applications, styling, and JavaScript programming.
 
