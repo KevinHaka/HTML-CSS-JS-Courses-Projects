@@ -1,0 +1,140 @@
+* {
+    font-family: 'Comfortaa', sans-serif;
+    padding-left: 0;
+    margin: 0;
+}
+
+body {
+    background-color: lightgray;
+    margin: 10px 10px;
+}
+
+.card {
+    background-color: white;
+    min-width: 150px;
+    border-radius: 10px;
+}
+
+.info {
+    font-size: 24px;
+    padding: 20px 0px 10px 15px;
+}
+
+.venue {
+    font-size: 19px;
+    color: gray;
+    margin-top: 10px;
+}
+
+.media {
+    background-image: url("Don_Giovanni_Act2_set_design_Prague_1790s_-_NGO_1p1205.jpg");
+    background-size: 600px;
+    height: 140px;
+    position: relative; 
+    padding-left: 0px;
+}
+
+.media > .title {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    box-sizing: border-box;
+
+    font-size: 45px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 5px 15px;
+}
+
+.name {
+    margin: 20px 0px;
+    padding-left: 15px;
+    color: rgb(56, 56, 56);
+}
+
+.role {
+    border-left: 3px solid orange;
+    padding-left: 10px;
+    margin-left: 10px;
+    color: gray;
+}
+
+.important, .dates {
+    color: rgb(56, 56, 56);
+    font-style: italic;
+    padding: 5px 15px;
+}
+
+.dates #b {
+    visibility: hidden;
+    padding-left: 10px;
+}
+
+.dates #a {
+    cursor: pointer;
+}
+
+.dates #a:hover + #b {
+    visibility: visible;
+}
+
+.details-menu {
+    display: inline-block;
+    font-size: 20px;
+    padding: 15px 0px;
+}
+
+.details-menu:hover {
+    color: orange;
+}
+
+.details-menu:first-child {
+    padding-left: 15px;
+    cursor: pointer;
+}
+
+.details-menu:first-child::after {
+    content: " • ";
+    margin: 0 6px; 
+    color: black;
+}
+
+.details-menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.synopsis {
+    padding: 10px 30px;
+    color: rgb(56, 56, 56);
+    font-size: 16px;
+}
+
+.synopsis p {
+    padding: 15px 0px;
+}
+
+.synopsis a {
+    color: rgb(56, 56, 56);
+    text-decoration-thickness: 3px;
+}
+
+.synopsis a:hover {
+    text-decoration-color: orange;
+}
+
+.button {
+    background-color: orange;
+    color: white;
+    font-size: 16px;
+    padding: 15px 15px;
+    border-radius: 10px;
+    border: none;
+    margin: 10px 0px 15px 15px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: white;
+    color: black;
+}
