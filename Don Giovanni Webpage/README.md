@@ -1,5 +1,5 @@
 # Don Giovanni Webpage
 
-Αυτή η ιστοσελίδα αποτελεί εργασία στο πλαίσιο του μαθήματος του Mathesis **«Introduction to web development with HTML5, CSS3, Javascript»**.
+This webpage was created as part of the Mathesis course **“Introduction to Web Development with HTML5, CSS3, and JavaScript.”**
 
-Η δική μου συνεισφορά στην εργασία είναι το αρχείο **`mystyle.css`**, το οποίο χρησιμοποιείται για τη μορφοποίηση και την εμφάνιση της ιστοσελίδας.
+My contribution to this project is the **`mystyle.css`** file, which is used to style the webpage.
