@@ -8,6 +8,8 @@ This project is the final assignment for the Mathesis course **"Introduction to 
 
 The game ends when the player guesses the correct number or uses all ten attempts. Once the game is over, the player can start a new game by selecting the **Restart** button.
 
+My contribution to the project is estimated at approximately **30% of the overall work**, since a substantial part of the template and initial code was provided by the course.
+
 ## Technologies Used
 
 - HTML5
@@ -24,11 +26,3 @@ The game ends when the player guesses the correct number or uses all ten attempt
 - Displays different messages for correct, incorrect, and completed games.
 - Allows the player to restart the game after it ends.
 - Uses CSS custom properties to define the interface colors.
-
-## My Contribution
-
-My contribution to this project is estimated at approximately **50% of the overall work**.
-
-A substantial part of the project was provided in advance, including the initial HTML template, the basic CSS structure, the required CSS variables, the page elements, and the JavaScript starter code with instructions and predefined selectors. My contribution mainly involved completing and adapting the required HTML, JavaScript game logic, event handling, guess processing, game-ending conditions, restart functionality, and the necessary CSS adjustments.
-
-This percentage is an approximate estimate based on the difference between the provided course template and the completed implementation.
