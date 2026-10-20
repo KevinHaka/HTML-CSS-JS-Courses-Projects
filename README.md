@@ -5,10 +5,10 @@ A collection of web development projects created during programming courses, sho
 ## Projects
 
 ### [Don Giovanni Webpage](./Don%20Giovanni%20Webpage/)
-A webpage created as part of the Mathesis course **"Introduction to Web Development with HTML5, CSS3, and JavaScript."** The project focuses on structuring and presenting web content with HTML and styling it with CSS.
+A webpage presenting information about the opera *Don Giovanni*.
 
 ### [Guess The Number](./Guess%20The%20Number/)
-An interactive browser game developed as the final assignment for the same course. The player tries to guess a randomly generated number between 1 and 100 within ten attempts.
+An interactive game in which the player tries to guess a random number between 1 and 100 within ten attempts.
 
 ## Skills Demonstrated
 
