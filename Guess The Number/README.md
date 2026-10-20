@@ -27,6 +27,8 @@ The game ends when the player guesses the correct number or uses all ten attempt
 
 ## My Contribution
 
-Based on the final assignment requirements and the implementation included in this project, my contribution is estimated at approximately **100% of the required implementation work**. This includes the required HTML changes, the JavaScript game logic and event handling, and the CSS styling.
+My contribution to this project is estimated at approximately **50% of the overall work**.
 
-This estimate refers to the implementation of the assignment requirements and does not include the original template files and course-provided scaffolding.
+A substantial part of the project was provided in advance, including the initial HTML template, the basic CSS structure, the required CSS variables, the page elements, and the JavaScript starter code with instructions and predefined selectors. My contribution mainly involved completing and adapting the required HTML, JavaScript game logic, event handling, guess processing, game-ending conditions, restart functionality, and the necessary CSS adjustments.
+
+This percentage is an approximate estimate based on the difference between the provided course template and the completed implementation.
